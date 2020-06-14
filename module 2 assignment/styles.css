@@ -63,9 +63,8 @@ p {
     padding:10px;
   }
 }
-  .s1,.s2,.s3{
+  .s1,.s2,.s3 {
     font-size: 125%;
-    
     padding-left: 10px;
     padding-right: 10px;
     position:absolute;
