@@ -63,20 +63,23 @@ p {
     padding:10px;
   }
 }
-  .s1,.s2,.s3 {
+  .s1,.s2,.s3{
     font-size: 125%;
+    background-color: yellow;
     padding-left: 10px;
     padding-right: 10px;
     position:absolute;
     top:0;right: 0;
     border: 1px solid black;
   }
-.s1{background-color: yellow;
-}
-.s2{background-color: blue;
-}
-.s3{background-color: green;
-}
+  .s1{background-color: yellow; 
+  }
+  .s2{
+    background-color: green;
+  }
+  .s3{
+    background-color: blue;
+  }
   .sec{
     position:relative; border: 1px solid black;
   }
